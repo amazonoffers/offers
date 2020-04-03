@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.amazon.co.uk	TRUE	/	FALSE	1999999999	session-id	258-6986156-6156850
+.amazon.co.uk	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+.amazon.co.uk	TRUE	/	FALSE	1999999999	i18n-prefs	GBP
+.amazon.co.uk	TRUE	/	FALSE	1999999999	ubid-acbuk	258-2376745-3439407
+.amazon.co.uk	TRUE	/	FALSE	1999999999	session-token	7kFY1h4La4BjstDsRxYH+vw7o49pKoFtMtiwvjkJ/AsN3nmU4+07Wv20R8YPnv/mtvM3uv1VU+1MdBqht/OLoDbnO6x4Trj92y8WqUCPAmSS/wnNxA1oj7NKc6SGjCMmMZT7SmRxCzfo7BV1X0XlV/oxpjBwxvmxslua2QLX1/kG/7bin43QlEDSG2AySsse
+
